@@ -1,0 +1,6 @@
+{
+  "name": "TIKTOK KURA",
+  "description": "Mobil öncelikli modern TikTok takipçi kura ve video hakları dağıtım sistemi prototipi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
